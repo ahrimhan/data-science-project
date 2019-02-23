@@ -618,18 +618,18 @@ def getScoreLevel(df):
                 scoreLevel = re.sub('Name', '', col)
     return scoreLevel
 
-def get_id_vals(df):
-    final_id_vars = []   
-    scoreLevel =  getScoreLevel(df)    
-    if "School" in scoreLevel:
-        final_id_vars = final_id_vars_schools
-    elif "District" in scoreLevel:
-        final_id_vars = final_id_vars_districts
-    elif "County" in scoreLevel:
-        final_id_vars = final_id_vars_counties
-    else:
-        print("no matching level")   
-    return final_id_vars
+#def get_id_vals(df):
+#    final_id_vars = []   
+#    scoreLevel =  getScoreLevel(df)    
+#    if "School" in scoreLevel:
+#        final_id_vars = final_id_vars_schools
+#    elif "District" in scoreLevel:
+#        final_id_vars = final_id_vars_districts
+#    elif "County" in scoreLevel:
+#        final_id_vars = final_id_vars_counties
+#    else:
+#        print("no matching level")   
+#    return final_id_vars
 
 
 #%%
