@@ -1,23 +1,33 @@
-# data-science-project
-Data science projects: 1) school score prediction and 2) Deep learning project.
+# Data Science Projects
+
+- School score prediction
+- Deep learning project (TBD)
 
 I am working on the two in-depth capstone projects in the Springboard Data Science Career Track.
-I am mastering skills in Python, SQL, data analysis, data visualization, hypothesis testing, and machine learning.
+I have the skills in Python, SQL, data analysis, data visualization, hypothesis testing, and machine learning.
 
-Specialized tools:
-* Data Cleaning and Exploratory Data Analysis
-Pandas library
-Numpy library
-Scipy library
+## Specialized tools and libraries:  
 
-* Data Visualization
-Matplotlib library
-Pyplot library
-Seaborn library
+### Data Cleaning and Exploratory Data Analysis
+- Pandas library
+- Numpy library
+- Scipy library
 
-* Machine Learning
-Scikit-learn library
+### Data Visualization
+- Matplotlib library
+- Pyplot library
+- Seaborn library
 
-* Communication
-Jupyter Notebook
-Markdown
+### Machine Learning
+- Scikit-learn library
+
+### Communication
+- Jupyter Notebook
+- Markdown
+
+### IDE
+- Visual Studio Code
+
+### Information Natural Language Processing
+-  [`nltk`](http://www.nltk.org/), [`spaCy`](https://spacy.io/), [`pattern`](http://www.clips.ua.ac.be/pattern)
+
