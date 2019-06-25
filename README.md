@@ -25,8 +25,8 @@ We recommended some strategies
 that effectively increase the achievements for scores. 
 
 ### Documention
-1. [Final Report](https://github.com/ahrimhan/data-science-project/tree/master/project1/final_report/capstone1_final_report.pdf)
-2. [Presentation](https://github.com/ahrimhan/data-science-project/tree/master/project1/final_report/capstone1_presentation.pdf)
+1. [Final Report](https://github.com/ahrimhan/data-science-project/blob/master/project1/report/capstone1_final_report.pdf)
+2. [Presentation](https://github.com/ahrimhan/data-science-project/blob/master/project1/report/capstone1_presentation.pdf)
 
 ### Jupyter Notebooks
 1. [Data Wrangling](https://github.com/ahrimhan/data-science-project/blob/master/project1/data_wrangling.ipynb)
