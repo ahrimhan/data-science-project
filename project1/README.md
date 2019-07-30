@@ -1,7 +1,19 @@
 ## **[Capstone Project 1: Prediction of Scores for Public Schools in California](https://github.com/ahrimhan/data-science-project/tree/master/project1)**
 
-We have analyzed the California Assessment of Student Performance and Progress (CAASPP) score data (California Department of Education)
-and house prices (Zillow research data) to help predict and find the inferior groups of schools that indeed need help.
+
+### Documention
+1. [Final Report](https://github.com/ahrimhan/data-science-project/blob/master/project1/reports/capstone1_final_report.pdf)
+2. [Presentation](https://github.com/ahrimhan/data-science-project/blob/master/project1/reports/capstone1_presentation.pdf)
+
+### Jupyter Notebooks
+1. [Data Wrangling](https://github.com/ahrimhan/data-science-project/blob/master/project1/data_wrangling.ipynb)
+2. [Data Visualization](https://github.com/ahrimhan/data-science-project/blob/master/project1/data_visualization.ipynb)
+3. [Exploratory Data Analysis](https://github.com/ahrimhan/data-science-project/blob/master/project1/exploratory_data_analysis.ipynb)
+4. [Machine Learning](https://github.com/ahrimhan/data-science-project/blob/master/project1/machine_learning.ipynb)
+
+
+**We have analyzed the California Assessment of Student Performance and Progress (CAASPP) score data (California Department of Education)
+and house prices (Zillow research data) to help predict and find the inferior groups of schools that indeed need help.**
 
 In the data visualization and exploratory data analysis, we plotted the various kinds of graphs interactive stacked bars using Plotly library and gained the insights on exceeded scores and inferior scores regarding to gender, ethnicity, english-language fluency, economic status, disability status, and parent educations.
 We also performed correlation analysis, univariate selection, and feature importance methods to find the strong indicators affecting lower scores. 
@@ -19,13 +31,3 @@ As a result, we obtained the best classification model using the random forest c
 Based on these results, we identified the top and bottom schools and found the important features determining those schools.
 We recommended some strategies
 that effectively increase the achievements for scores. 
-
-### Documention
-1. [Final Report](https://github.com/ahrimhan/data-science-project/blob/master/project1/reports/capstone1_final_report.pdf)
-2. [Presentation](https://github.com/ahrimhan/data-science-project/blob/master/project1/reports/capstone1_presentation.pdf)
-
-### Jupyter Notebooks
-1. [Data Wrangling](https://github.com/ahrimhan/data-science-project/blob/master/project1/data_wrangling.ipynb)
-2. [Data Visualization](https://github.com/ahrimhan/data-science-project/blob/master/project1/data_visualization.ipynb)
-3. [Exploratory Data Analysis](https://github.com/ahrimhan/data-science-project/blob/master/project1/exploratory_data_analysis.ipynb)
-4. [Machine Learning](https://github.com/ahrimhan/data-science-project/blob/master/project1/machine_learning.ipynb)

@@ -108,7 +108,7 @@ In recent years, there has been a remarkable performance improvement
 to Natural Language Processing (NLP) problems
 by applying deep learning neural networks.
 %
-Therefore, in this project, I will build deep learning models using various parameters to classify the positive and negative movie reviews using the high-edge deep learning techniques. I will compare models and observe the parameters affecting the performance in accuracy.
+Therefore, in this project, I build deep learning models using various parameters to classify the positive and negative movie reviews using the high-edge deep learning techniques. I compare models and observe the parameters affecting the performance in accuracy.
 
 \paragraph*{Expected Beneficiaries.}
 
@@ -145,10 +145,10 @@ To build a deep learning Convolutional Neural Network (CNN) model, we basically 
 
 \item Second, a series of convolution 1D Neural Network and pooling layers are added according to typical CNN for text analysis. Then, after flattening layer, fully connected Dense layers are added. Since this is a binary classification problem, we use the Sigmoid function as an activation function for the final Dense layer. To prevent overfitting, we add Dropouts to deactivate neurons randomly, which forces the network to learn a more balanced representation. 
 
-\item Finally, we will make the different deep learning models by adjusting the parameters and will find the best accurate model. We later will investigate the features affecting the accuracy.
+\item Finally, we make the different deep learning models by adjusting the parameters and will find the best accurate model. We later will investigate the features affecting the accuracy.
 \end{enumerate}
 
-\paragraph*{Results}
+\paragraph*{Results.}
 In the paper \cite{Stanford_movie_review_paper}, the performance of machine learning models are in range of 67.42\% to 88.89\%. The model performed best in the cross validated Support Vector Machine (SVM) when concatenated with bag of words representation. In this project, we generate the preliminary results, and the best accuracy of our deep learning models based on CNN is 90.14\%. 
 
 \section{Data Preprocessing}
@@ -347,7 +347,7 @@ A conservative CNN configuration is used with 32 filters (parallel fields for pr
 We used the 96 filters and 5 kernels by default
 with a rectified linear (`ReLU') activation function.
 %
-We will adjust the number of filters to investigate if they affect the accuracy of models.
+We adjust the number of filters to investigate if they affect the accuracy of models.
 %
 This extracted set of features are then passed to MaxPooling layer, which filters the dominating terms from the extracted features.
 
