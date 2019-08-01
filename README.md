@@ -21,7 +21,7 @@ I have mastered the skills in Python, SQL, data analysis, data visualization, hy
 - Matplotlib library
 - Pyplot library
 - Seaborn library
-- Plotly (interactive visualization)
+- Plotly (interactive stacked bars)
 
 ### Machine Learning
 - Scikit-learn library
